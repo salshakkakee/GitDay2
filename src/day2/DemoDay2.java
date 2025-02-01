@@ -18,5 +18,7 @@ public class DemoDay2 {
 	public void subtract(int c, int d) {
 		System.out.println(c - d);
 	}
+	// this is Java
+	
 
 }
